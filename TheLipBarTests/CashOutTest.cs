@@ -5,6 +5,7 @@ namespace TheLipBarTests
 {
     public class CashOutTest
     {
+
         [Fact]
         public void SubtotalCheck1()
         {

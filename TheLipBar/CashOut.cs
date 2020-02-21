@@ -32,8 +32,35 @@ namespace TheLipBar
                     Console.WriteLine($"{(kvPair.Value)} X {Inventory.InventoryDic[kvPair.Key].Name} ({(Inventory.InventoryDic[kvPair.Key].Price).ToString("C", CultureInfo.CurrentCulture)} each) = {((Inventory.InventoryDic[kvPair.Key].Price) * (kvPair.Value)).ToString("C", CultureInfo.CurrentCulture)}");
                 }
             }
+        } 
+        
+        public static double Subtotal()
+        {
+            double subtotalValue = 0;
 
-        }    
+            foreach (var kvPair in ShoppingCart.UserCart)
+            {
+                if (kvPair.Value > 0)
+                {
+                    subtotalValue += Inventory.InventoryDic[kvPair.Key].Price * (kvPair.Value);
+                }
+            }
+            return subtotalValue;
+        }
+
+        public static double Tax()
+        {
+            double subtotalValue = Subtotal();
+
+            return subtotalValue * .06;
+        }
+
+        public static double Total()
+        {
+            double grandTotal = Subtotal() + Tax();
+
+            return grandTotal;
+        }
     }
 
 }

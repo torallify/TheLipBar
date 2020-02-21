@@ -29,22 +29,16 @@ namespace TheLipBar
         {
             foreach (KeyValuePair<int, Product> entry in InventoryDic)
             {
-
-                // do something with entry.Value or entry.Key
                 Console.WriteLine($"\n{entry.Key}: {entry.Value}");
                 Console.WriteLine(new string('=', 107));
-
             }
         }
         static public void PrintInventory()
         {
             foreach (KeyValuePair<int, Product> entry in InventoryDic)
             {
-
-                // do something with entry.Value or entry.Key
                 Console.WriteLine($"\n{entry.Key}: {entry.Value} \n{entry.Value.Description}\n");
                 Console.WriteLine(new string('=', 107));
-
             }
         }
     } 

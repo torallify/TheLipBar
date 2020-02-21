@@ -20,7 +20,6 @@ namespace TheLipBar
             CashOut.PrintReceipt();
 
             //Inventory.PrintBasicInventory();
-
             
         }
         static bool UserContinue()

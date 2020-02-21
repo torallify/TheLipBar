@@ -33,9 +33,9 @@ namespace TheLipBar
                     Console.WriteLine($"{(kvPair.Value)} X {Inventory.InventoryDic[kvPair.Key].Name} ({(Inventory.InventoryDic[kvPair.Key].Price).ToString("C", CultureInfo.CurrentCulture)} each) = {((Inventory.InventoryDic[kvPair.Key].Price) * (kvPair.Value)).ToString("C", CultureInfo.CurrentCulture)}");
                 }
             }
-            Console.WriteLine($"Subtotal: {Subtotal()}");
-            Console.WriteLine($"Tax: {Tax()}");
-            Console.WriteLine($"Total: {Total()}");
+            Console.WriteLine($"Subtotal: {Subtotal().ToString("C", CultureInfo.CurrentCulture)}");
+            Console.WriteLine($"Tax: {Tax().ToString("C", CultureInfo.CurrentCulture)}");
+            Console.WriteLine($"Total: {Total().ToString("C", CultureInfo.CurrentCulture)}");
             var arr = new[]
             {
                     @"  _______ _            _      _         ____             _ ",

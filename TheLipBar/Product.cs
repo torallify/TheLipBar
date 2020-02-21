@@ -7,7 +7,6 @@ namespace TheLipBar
 {
     public class Product
     {
-        
         private string name;
         private double price;
         private string description;

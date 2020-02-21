@@ -6,7 +6,31 @@ namespace TheLipBar
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Beauties!\n\nWELCOME TO THE LIP BAR!! \n");
+
+            var arr = new[]
+           {
+                    @" /$$$$$$$$ /$$                       /$$       /$$                 /$$$$$$$                      /$$",
+                    @"|__  $$__/| $$                      | $$      |__/                | $$__  $$                    | $$",
+                    @"   | $$   | $$$$$$$   /$$$$$$       | $$       /$$  /$$$$$$       | $$  \ $$  /$$$$$$   /$$$$$$ | $$",
+                    @"   | $$   | $$__  $$ /$$__  $$      | $$      | $$ /$$__  $$      | $$$$$$$  |____  $$ /$$__  $$| $$",
+                    @"   | $$   | $$  \ $$| $$$$$$$$      | $$      | $$| $$  \ $$      | $$__  $$  /$$$$$$$| $$  \__/|__/",
+                    @"   | $$   | $$  | $$| $$_____/      | $$      | $$| $$  | $$      | $$  \ $$ /$$__  $$| $$          ",
+                    @"   | $$   | $$  | $$|  $$$$$$$      | $$$$$$$$| $$| $$$$$$$/      | $$$$$$$/|  $$$$$$$| $$       /$$",
+                    @"   |__/   |__/  |__/ \_______/      |________/|__/| $$____/       |_______/  \_______/|__/      |__/",
+                    @"                                                  | $$                                              ",
+                    @"                                                  | $$                                              ",
+                    @"                                                  |__/                                              "
+            };
+            
+            Console.WindowWidth = 130;
+            foreach (string line in arr)
+            {
+                 Console.WriteLine(line);
+            }
+            Console.WriteLine();
+ 
+           
+            Console.WriteLine(new string('=', 107));
             Console.WriteLine(new string('=', 107));
 
             Inventory.PrintInventory();

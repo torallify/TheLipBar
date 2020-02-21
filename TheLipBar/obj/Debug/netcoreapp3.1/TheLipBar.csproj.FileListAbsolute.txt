@@ -9,3 +9,14 @@ C:\Users\LToral\OneDrive - Knex\Dev.Build\Grand Circus\Testing In-Depth\TheLipBa
 C:\Users\LToral\OneDrive - Knex\Dev.Build\Grand Circus\Testing In-Depth\TheLipBarTests\TheLipBar\obj\Debug\netcoreapp3.1\TheLipBar.dll
 C:\Users\LToral\OneDrive - Knex\Dev.Build\Grand Circus\Testing In-Depth\TheLipBarTests\TheLipBar\obj\Debug\netcoreapp3.1\TheLipBar.pdb
 C:\Users\LToral\OneDrive - Knex\Dev.Build\Grand Circus\Testing In-Depth\TheLipBarTests\TheLipBar\obj\Debug\netcoreapp3.1\TheLipBar.csprojAssemblyReference.cache
+C:\Users\bspencer\Desktop\TheLipBar\TheLipBar\bin\Debug\netcoreapp3.1\TheLipBar.exe
+C:\Users\bspencer\Desktop\TheLipBar\TheLipBar\bin\Debug\netcoreapp3.1\TheLipBar.deps.json
+C:\Users\bspencer\Desktop\TheLipBar\TheLipBar\bin\Debug\netcoreapp3.1\TheLipBar.runtimeconfig.json
+C:\Users\bspencer\Desktop\TheLipBar\TheLipBar\bin\Debug\netcoreapp3.1\TheLipBar.runtimeconfig.dev.json
+C:\Users\bspencer\Desktop\TheLipBar\TheLipBar\bin\Debug\netcoreapp3.1\TheLipBar.dll
+C:\Users\bspencer\Desktop\TheLipBar\TheLipBar\bin\Debug\netcoreapp3.1\TheLipBar.pdb
+C:\Users\bspencer\Desktop\TheLipBar\TheLipBar\obj\Debug\netcoreapp3.1\TheLipBar.csprojAssemblyReference.cache
+C:\Users\bspencer\Desktop\TheLipBar\TheLipBar\obj\Debug\netcoreapp3.1\TheLipBar.AssemblyInfoInputs.cache
+C:\Users\bspencer\Desktop\TheLipBar\TheLipBar\obj\Debug\netcoreapp3.1\TheLipBar.AssemblyInfo.cs
+C:\Users\bspencer\Desktop\TheLipBar\TheLipBar\obj\Debug\netcoreapp3.1\TheLipBar.dll
+C:\Users\bspencer\Desktop\TheLipBar\TheLipBar\obj\Debug\netcoreapp3.1\TheLipBar.pdb

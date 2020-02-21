@@ -4,5 +4,6 @@ namespace TheLipBarTests
 {
     class CashOutTest
     {
+
     }
 }

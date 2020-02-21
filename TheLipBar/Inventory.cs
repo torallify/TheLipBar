@@ -9,6 +9,8 @@ namespace TheLipBar
     {
         public static Dictionary<int, Product> InventoryDic = new Dictionary<int, Product>()
         {
+
+
             { 1, (new Product("Bawse Lady", 13.00, "\n\tThe best red you'll ever meet. Period." ))},
             { 2, (new Product("Hot Mama", 13.00, "\n\tYour new favorite lippie, Hot Mama, a fire-engine red that'll\n\tset your lips ablazeand bring all the heat to your makeup looks: day and night."))},
             { 3, (new Product("Man Eater", 13.00, "\n\tShe is a man eater. She is intimidating.\n\tBut deep inside she is just a mild taupe colored matte lip waiting to be worn\n\tand loved Enriched with Shea butter, avocado oil and jojoba oil to soften the lips" )) },

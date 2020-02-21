@@ -6530,25 +6530,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\LToral\\.nuget\\packages\\": {},
+    "C:\\Users\\bspencer\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LToral\\OneDrive - Knex\\Dev.Build\\Grand Circus\\Testing In-Depth\\TheLipBarTests\\TheLipBarTests\\TheLipBarTests.csproj",
+      "projectUniqueName": "C:\\Users\\bspencer\\Desktop\\TheLipBar\\TheLipBarTests\\TheLipBarTests.csproj",
       "projectName": "TheLipBarTests",
-      "projectPath": "C:\\Users\\LToral\\OneDrive - Knex\\Dev.Build\\Grand Circus\\Testing In-Depth\\TheLipBarTests\\TheLipBarTests\\TheLipBarTests.csproj",
-      "packagesPath": "C:\\Users\\LToral\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LToral\\OneDrive - Knex\\Dev.Build\\Grand Circus\\Testing In-Depth\\TheLipBarTests\\TheLipBarTests\\obj\\",
+      "projectPath": "C:\\Users\\bspencer\\Desktop\\TheLipBar\\TheLipBarTests\\TheLipBarTests.csproj",
+      "packagesPath": "C:\\Users\\bspencer\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\bspencer\\Desktop\\TheLipBar\\TheLipBarTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\LToral\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\bspencer\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -6562,8 +6562,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\LToral\\OneDrive - Knex\\Dev.Build\\Grand Circus\\Testing In-Depth\\TheLipBarTests\\TheLipBar\\TheLipBar.csproj": {
-              "projectPath": "C:\\Users\\LToral\\OneDrive - Knex\\Dev.Build\\Grand Circus\\Testing In-Depth\\TheLipBarTests\\TheLipBar\\TheLipBar.csproj"
+            "C:\\Users\\bspencer\\Desktop\\TheLipBar\\TheLipBar\\TheLipBar.csproj": {
+              "projectPath": "C:\\Users\\bspencer\\Desktop\\TheLipBar\\TheLipBar\\TheLipBar.csproj"
             }
           }
         }

@@ -2,7 +2,7 @@
 
 namespace TheLipBarTests
 {
-    class CashTest
+    class CashOutTest
     {
     }
 }

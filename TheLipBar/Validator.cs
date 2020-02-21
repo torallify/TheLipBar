@@ -21,7 +21,7 @@ namespace TheLipBar
                 Console.WriteLine("Let's try again with a whole number ");
                 Console.Write($"\n{prompt}");
                 input = Console.ReadLine();
-
+                // call to validator - needs to return a bool value
                 worked = int.TryParse(input, out number);
             }
             return number;

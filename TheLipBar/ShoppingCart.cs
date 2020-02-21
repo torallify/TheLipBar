@@ -9,7 +9,7 @@ namespace TheLipBar
     {
         public static Dictionary<int, int> UserCart = new Dictionary<int, int>()
         {
-            { 1, 0}, { 2, 0}, { 3, 0}, { 4, 0 }, {5,0},{6,0},{7,0},{8,0},{9,0},{10,0},{11,0},{12,0}
+            {1, 0}, {2, 0}, {3, 0}, {4, 0}, {5,0},{6,0},{7,0},{8,0},{9,0},{10,0},{11,0},{12,0}
         };
 
         public static void GetOrder()
@@ -28,7 +28,6 @@ namespace TheLipBar
                 Console.WriteLine($"\nAdding #{userInput} {Inventory.InventoryDic[userInput].Name} to cart at {Inventory.InventoryDic[userInput].Price.ToString("C", CultureInfo.CurrentCulture)}");
             }
         }
-
 
     }
 }

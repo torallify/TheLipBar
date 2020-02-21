@@ -6,24 +6,29 @@ namespace TheLipBar
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Beauties!\nWELCOME TO THE LIP BAR!! \n");
+            Console.WriteLine("Hello Beauties!\n\nWELCOME TO THE LIP BAR!! \n");
+            Console.WriteLine(new string('=', 107));
 
             Inventory.PrintInventory();
             do
             {
                 ShoppingCart.GetOrder();
 
+                
             } while(UserContinue());
-            Inventory.PrintBasicInventory();
 
-            //test.PrintCars(out int addCarIndex, out int quitIndex, out int rangeCars);
+            CashOut.PrintReceipt();
+
+            //Inventory.PrintBasicInventory();
+
+            
         }
         static bool UserContinue()
         {
             char key;
             do
             {
-                Console.Write("\nWould you like to continue (y/n)? <<");
+                Console.Write("\nWould you like anything else (y/n)? ");
                 key = Console.ReadKey().KeyChar;
                 key = char.ToLower(key);
                 if (key == 'n')

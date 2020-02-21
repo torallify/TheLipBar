@@ -5,6 +5,7 @@ namespace TheLipBarTests
 {
     public class ValidatorTest
     {
+        /*
 
         [Theory]
         [InlineData(1, 1)]
@@ -17,7 +18,6 @@ namespace TheLipBarTests
             a = Validator.GetInt("get number:");
             Assert.Equal(expected, a);
         }
-        /*
 
         [Theory]
         [InlineData(1, 1)]

@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LToral\\OneDrive - Knex\\Dev.Build\\Grand Circus\\Testing In-Depth\\TheLipBarTests\\TheLipBar\\TheLipBar.csproj": {}
+    "C:\\Users\\bspencer\\Desktop\\TheLipBar\\TheLipBar\\TheLipBar.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LToral\\OneDrive - Knex\\Dev.Build\\Grand Circus\\Testing In-Depth\\TheLipBarTests\\TheLipBar\\TheLipBar.csproj": {
+    "C:\\Users\\bspencer\\Desktop\\TheLipBar\\TheLipBar\\TheLipBar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LToral\\OneDrive - Knex\\Dev.Build\\Grand Circus\\Testing In-Depth\\TheLipBarTests\\TheLipBar\\TheLipBar.csproj",
+        "projectUniqueName": "C:\\Users\\bspencer\\Desktop\\TheLipBar\\TheLipBar\\TheLipBar.csproj",
         "projectName": "TheLipBar",
-        "projectPath": "C:\\Users\\LToral\\OneDrive - Knex\\Dev.Build\\Grand Circus\\Testing In-Depth\\TheLipBarTests\\TheLipBar\\TheLipBar.csproj",
-        "packagesPath": "C:\\Users\\LToral\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LToral\\OneDrive - Knex\\Dev.Build\\Grand Circus\\Testing In-Depth\\TheLipBarTests\\TheLipBar\\obj\\",
+        "projectPath": "C:\\Users\\bspencer\\Desktop\\TheLipBar\\TheLipBar\\TheLipBar.csproj",
+        "packagesPath": "C:\\Users\\bspencer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bspencer\\Desktop\\TheLipBar\\TheLipBar\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\LToral\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bspencer\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],

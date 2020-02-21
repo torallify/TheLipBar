@@ -42,9 +42,10 @@ namespace TheLipBar
             } while(UserContinue());
 
             CashOut.PrintReceipt();
+            
 
             //Inventory.PrintBasicInventory();
-            
+
         }
         static bool UserContinue()
         {
